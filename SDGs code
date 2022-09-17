@@ -1,0 +1,155 @@
+<div class="container-page mb-20">
+    <div class="box-article bg-white" style="border-radius: 0 0 5px 5px;">
+        <div class="box-statis border-grey-soft" style="border-radius: 0 0 5px 5px;">
+            <div class="row bg-grey-medium">
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaTanpaKemiskinan.webp" alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaTanpaKelaparan.webp" alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 33.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaSehatDanSejahtera.webp" alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.75</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/pendidikanDesaBerkualitas.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+            </div>
+            <div class="row bg-grey-medium">
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/keterlibatanPerempuanDesa.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 23.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaAirBersihSanitasi.webp" alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaBerenergiBersihDanTerbarukan.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/pertumbuhanEkonomiDesaMerata.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+            </div>
+            <div class="row bg-grey-medium">
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/infrastrukturDanInovasiDesaSesuaiKebutuhan.webp"
+                            alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 13.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaTanpaKesenjangan.webp" alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/kawasanPermukimanDesaAmanDanNyaman.webp" alt=""
+                            height="100px" /></div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/konsumsiDanProduksiDesaSadarLingkungan.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+            </div>
+            <div class="row bg-grey-medium">
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaTanggapPerubahanIklim.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaPeduliLingkunganLaut.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaPeduliLingkunganDarat.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/desaDamaiBerkeadilan.webp" alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+            </div>
+            <div class="row bg-grey-medium">
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/kemitraanUntukPembangunanDesa.webp" alt=""
+                            height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 63.55</h2></div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="imglist" style="vertical-align: top; text-align: center;"><img
+                            src="https://sid.kemendesa.go.id/images/kelembagaanDesaDinamisDanBudayaDesaAdaptif.webp"
+                            alt="" height="100px" />
+                    </div>
+                    <div class="text-center"><h2>Nilai: 23.55</h2></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
